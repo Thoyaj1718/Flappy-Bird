@@ -1,4 +1,4 @@
-Live Here : https://thoyaj1718.github.io/flappy-bird/
+Live Here : https://thoyaj1718.github.io/Flappy-Bird/
 
 In this tutorial, you will learn to create the flappy bird game with html, css, and javascript. Specifically, you will learn how to code the game using html5 canvas. 
 
